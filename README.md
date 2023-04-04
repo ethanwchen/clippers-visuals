@@ -25,8 +25,7 @@ This is a playground project that focuses on analyzing the performance of the Lo
 
 #### Getting Started
 1. Clone the repository
-2. Install required packages: pip install -r requirements.txt
-3. Run the Jupyter Notebook
+2. Run the Jupyter Notebook
 #### Built With
 - Python
 - NBA API
