@@ -11,6 +11,18 @@ This is a playground project that focuses on analyzing the performance of the Lo
 #### Analysis
 - Clippers' win percentage, points per game, and rebounds per game before and after Russell Westbrook joined the team
 - Russell Westbrook's individual shooting performance with scatter plots, histograms, and bar charts
+#### Sample plots
+
+#### Clippers performance before and after Westbrook joined:
+
+![download-1](https://user-images.githubusercontent.com/96222805/229660794-7772f1e6-ec5e-4270-974d-e36efae5e823.png)
+
+#### Westbrook shooting distribution
+
+![download-2](https://user-images.githubusercontent.com/96222805/229660810-fd82c733-d99b-4cf6-aa98-bd60eec5a7c7.png)
+
+
+
 #### Getting Started
 1. Clone the repository
 2. Install required packages: pip install -r requirements.txt
