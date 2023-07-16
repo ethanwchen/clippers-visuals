@@ -1,4 +1,4 @@
-# clippers-visuals
+# Clippers Visuals
 Analyze and visualize the LA Clippers' performance with a focus on Russell Westbrook's impact, using the NBA API and Python data visualization packages.
 
 ## LA Clippers Performance Analysis and Visualization
